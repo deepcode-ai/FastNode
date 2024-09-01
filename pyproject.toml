@@ -7,7 +7,7 @@ readme = "README.md"
 
 [tool.poetry.dependencies]
 python = "^3.10"
-kombu = "5.3.7"
+kombu = "5.4.0"
 
 
 [build-system]
